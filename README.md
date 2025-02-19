@@ -1,6 +1,7 @@
 # Automated-Level-Crossing-Barrier
 Development of an automated system with ultrasound sensor technology.
-Inclusions: Ultrasound sensor, barrier mechanism, control system, manual override feature, reset functionality
+Inclusions: Ultrasound sensor, barrier mechanism, control system, manual override feature, reset functionality.
+
 link to download ppt file : https://docs.google.com/presentation/d/1Jjd3_qDMRvf5ia9DxSgHfLPY0USweU-m/edit?usp=sharing&ouid=117261195923343585031&rtpof=true&sd=true
 
 --------------------
